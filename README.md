@@ -1,8 +1,15 @@
-<!doctype html>
-<html lang="en">
+<!Doctype html>
+<html>
 <head>
+<form>
 <style rel="stylesheet"
 href="style.css">
-</head>
 <h1> why this colavery <h2>
-<Button> Login</button>
+<button> Login </button>
+<Input type="password">
+</form>
+</head>
+</html>
+
+
+
